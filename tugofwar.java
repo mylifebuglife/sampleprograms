@@ -1,7 +1,7 @@
 // Java program for Tug of war 
 import java.util.*; 
-import java.lang.*; 
-import java.io.*; 
+//import java.lang.*; 
+//import java.io.*; 
 
 class TugOfWar 
 { 
