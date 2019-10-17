@@ -1,10 +1,7 @@
-// C++ program to find all subsets of given set. Any 
-// repeated subset is considered only once in the output 
 #include <bits/stdc++.h> 
 using namespace std; 
 
-// Utility function to split the string using a delim. Refer - 
-// http://stackoverflow.com/questions/236129/split-a-string-in-c 
+// Utility function to split the string using a delim. Refer -  
 vector<string> split(const string &s, char delim) 
 { 
 	vector<string> elems; 
