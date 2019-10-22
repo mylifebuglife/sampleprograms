@@ -1,5 +1,6 @@
 /* Java program to solve N Queen Problem using 
 backtracking */
+import java.util.*;
 public class NQueenProblem { 
 	final int N = 4; 
 
